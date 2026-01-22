@@ -11,6 +11,8 @@
 }
 
 body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
     display: grid;
     grid-template-rows: auto 1fr auto;
     min-height: 100vh;
